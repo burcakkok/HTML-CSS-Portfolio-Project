@@ -24,23 +24,25 @@ width: 100%;
     padding: 30px;
  }
 
-
 #aboutme {
     width: 100%;
     background-color: #8DA47E;
     padding-top: 5px;
     padding-bottom: 5px;
-    background-size: cover;
+    color: black;
+    
 }
 #aboutme h1 {
     float:left;
     font-size: 50px;
 }
 #aboutme p {
-    float:right;
+    text-align:right;
     font-size: 30px;
-    vertical-align: bottom;
+    float:bottom;
+    
 }
+
 #myprojects {
     width: 100%;
     text-align: center;
@@ -67,8 +69,8 @@ footer {
     background-color: #AAD9CD;
     color: aliceblue;
     text-align: center;
-    padding-top: 50%;
-    padding-bottom: 50%;
+    padding-top: 15%;
+    padding-bottom: 15%;
 }
 footer a {
     color: aliceblue;
