@@ -1,8 +1,16 @@
-/**
- * Add your custom styles below
- * 
- * Remember: 
- * - Be organised, use comments and separate your styles into meaningful chunks
- *    for example: General styles, Navigation styles, Hero styles, Footer etc.
- * 
- */
+* {
+font-family: 'Saira Condensed', sans-serif;
+}
+
+header {
+width: 100%;
+background-color: #E8D595;
+vertical-align: top;
+margin: left;
+}
+
+#navbar {
+text-align: center;
+vertical-align: top;
+padding: 15px;
+}
