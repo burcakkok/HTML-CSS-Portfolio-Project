@@ -45,6 +45,7 @@ body {
     font-size: 30px;
 }
 #myprojects {
+    width: 100%;
     text-align: center;
     background-color: #E9BBB5;
     color:aliceblue;
