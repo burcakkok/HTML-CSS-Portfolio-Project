@@ -13,4 +13,16 @@ margin: left;
 text-align: center;
 vertical-align: top;
 padding: 15px;
+margin: right;
 }
+
+#navbar li {
+    display: inline;
+    font-size: 20px;
+    font-weight: bold;
+}
+ li a {
+    color: #F27348;
+    text-decoration: none;
+    padding: 15px;
+ }
