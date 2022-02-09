@@ -31,6 +31,8 @@ body {
 
 #aboutme {
     background-color: #8DA47E;
+    padding:5px;
+    width: 100%;
 }
 #aboutme h1 {
     float:left;
