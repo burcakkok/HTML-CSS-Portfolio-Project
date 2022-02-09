@@ -48,7 +48,6 @@ padding: 50px;
 #myprojects {
     text-align: center;
     background-color: #E9BBB5;
-    color:aliceblue;
     padding-top: 10%;
     padding-bottom: 10%;  
     padding:50px;  
@@ -62,7 +61,7 @@ padding: 50px;
 
 #myprojects h1 {
     text-align: center;
-    color: #B2B2B2;
+    color: #244D5C;
     padding-top: 10%;
 }
 
@@ -73,7 +72,7 @@ table td {
 
 footer {
     background-color: #AAD9CD;
-    color: aliceblue;
+    color: #F27348;
     text-align: center;
     padding-top: 10%;
     padding-bottom: 10%;
@@ -81,5 +80,5 @@ footer {
 }
 
 footer a {
-    color: aliceblue;
+    color: #F27348;
 }
