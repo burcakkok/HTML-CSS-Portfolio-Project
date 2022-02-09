@@ -2,23 +2,21 @@
 font-family: 'Saira Condensed', sans-serif;
 }
 
-header {
-width: 100%;
-background-color: #E8D595;
-vertical-align: top;
-display: inline;
-padding: 30px;
-}
+
 
 #navbar {
+background-color: #E8D595;
 text-align: center;
 vertical-align: top;
 letter-spacing: 3px;
+padding: 30px;
+width: 100%;
 }
 
 #navbar li {
     font-size: 20px;
     font-weight: bold;
+    display: inline;
 }
  li a {
     color: #F27348;
