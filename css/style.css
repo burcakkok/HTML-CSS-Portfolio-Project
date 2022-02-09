@@ -12,7 +12,6 @@ letter-spacing: 3px;
 padding-top: 10%;
 padding-bottom: 10%;
 padding: 50px;
-width: 100%;
 }
 
 #navbar li {
@@ -27,7 +26,6 @@ width: 100%;
  }
 
 #aboutme {
-    width: 100%;
     background-color: #8DA47E;
     padding-top: 10%;
     padding-bottom: 10%;
@@ -48,7 +46,6 @@ width: 100%;
 }
 
 #myprojects {
-    width:100%;
     text-align: center;
     background-color: #E9BBB5;
     color:aliceblue;
