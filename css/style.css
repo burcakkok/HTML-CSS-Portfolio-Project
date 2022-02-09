@@ -6,13 +6,13 @@ header {
 width: 100%;
 background-color: #E8D595;
 vertical-align: top;
-display: inline-block;
+display: inline;
+padding: 30px;
 }
 
 #navbar {
 text-align: center;
 vertical-align: top;
-padding: 20px;
 letter-spacing: 3px;
 }
 
@@ -23,5 +23,5 @@ letter-spacing: 3px;
  li a {
     color: #F27348;
     text-decoration: none;
-    padding: 15px;
+    padding: 30px;
  }
